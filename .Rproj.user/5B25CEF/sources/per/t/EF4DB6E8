@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1561989040389.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "EF4DB6E8",
+    "lastKnownWriteTime" : 19140779460001857,
+    "last_content_update" : 1561989040389,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "C0FBA65",
+        "caption" : "Kapasitas_Listrik_MW",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=Kapasitas_Listrik_MW&cache_key=C0FBA65",
+        "displayedObservations" : "10",
+        "environment" : "",
+        "object" : "Kapasitas_Listrik_MW",
+        "preview" : "0",
+        "totalObservations" : "10",
+        "variables" : "10"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
